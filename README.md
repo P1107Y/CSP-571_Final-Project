@@ -1,10 +1,10 @@
-## CSP 571 – Data Preparation and Analysis
+### CSP 571 – Data Preparation and Analysis
 
-## Final Project Report 
+### Final Project Report 
 
-## Enhancing Predictive Analytics with Random Forest: A Comprehensive Machine Learning Pipeline for Class Prediction
+### Enhancing Predictive Analytics with Random Forest: A Comprehensive Machine Learning Pipeline for Class Prediction
 
-## Team Members
+### Team Members
 
 Sai Teja Reddy Kotha - A20547859
 
@@ -15,6 +15,6 @@ Gowthami Kamatam - A20555738
 Sai Pranay Yada - A20553636
 
 
-## Under the Guidance Of 
+### Under the Guidance Of 
 
-## Prof. Jawahar J. Panchal
+### Prof. Jawahar J. Panchal
